@@ -1,4 +1,4 @@
-#Fan thermostat
+# Fan thermostat
 
 Hardware
 
