@@ -12,7 +12,7 @@ MQTT topics
 
 Get
 LWT: thermostat_pv/LWT
-Status: thermostat/status
+Status: thermostat_pv/status
 
 Set:
 Power: thermostat_pv/power/set 0/1
